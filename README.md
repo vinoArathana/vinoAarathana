@@ -1,6 +1,9 @@
 Hi, I'm Vino 👋  
-Full-stack developer (React, Node.js)
+Full-stack developer
 
-• Interested in bug fixing & small tasks  
-• Learning by building real projects  
-• Open to collaboration
+Frontend: HTML, CSS, JavaScript, React (Vite), MUI, Bootstrap  
+Backend: Node.js, Firebase (OTP Auth, Firestore), MongoDB, SQL, MySQL  
+Cloud & Tools: GCP Datastore, Git, GitHub
+
+• Fixing bugs & building features
+• Open to small dev tasks & collaboration
